@@ -1,1 +1,1 @@
-[Link al Deploy a Github Pages] ([https://](https://miltonrscg.github.io/Modulo1_Desafio6/)
+[Link al Deploy a Github Pages] (https://miltonrscg.github.io/Modulo1_Desafio6/)
